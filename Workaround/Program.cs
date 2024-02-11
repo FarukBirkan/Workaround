@@ -21,6 +21,7 @@ namespace Workaround
 
 
             Topla(s1, s2);
+
             // Console.WriteLine("Hello World!");
         }
 
